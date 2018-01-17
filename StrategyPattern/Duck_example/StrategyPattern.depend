@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1516169097 source:c:\users\lz\desktop\designpatterns\strategypattern\main.cpp
+	<iostream>
+	"Duck.h"
+
+1516108276 source:c:\users\lz\desktop\designpatterns\strategypattern\duck.cpp
+	"Duck.h"
+	<iostream>
+
+1516108209 c:\users\lz\desktop\designpatterns\strategypattern\duck.h
+
+1516169097 source:c:\users\lz\desktop\designpatterns\strategypattern\duck_example\main.cpp
+	<iostream>
+	"Duck.h"
+
+1516108209 c:\users\lz\desktop\designpatterns\strategypattern\duck_example\duck.h
+

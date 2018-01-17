@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1516171653 source:c:\users\lz\desktop\designpatterns\strategypattern\algorithm\context.cpp
+	"context.h"
+
+1516172550 c:\users\lz\desktop\designpatterns\strategypattern\algorithm\context.h
+	"Strategy.h"
+
+1516172804 c:\users\lz\desktop\designpatterns\strategypattern\algorithm\strategy.h
+
+1516171343 source:c:\users\lz\desktop\designpatterns\strategypattern\algorithm\concretestrategy.cpp
+	"ConcreteStrategy.h"
+	<iostream>
+
+1516172319 c:\users\lz\desktop\designpatterns\strategypattern\algorithm\concretestrategy.h
+	"Strategy.h"
+
+1516172536 source:c:\users\lz\desktop\designpatterns\strategypattern\algorithm\main.cpp
+	<iostream>
+	"context.h"
+	"ConcreteStrategy.h"
+	"Strategy.h"
+	<vector>
+
