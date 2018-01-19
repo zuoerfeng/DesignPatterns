@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1516283045 source:c:\users\lz\desktop\designpatterns\oserverpattern\main.cpp
+	"Observer.h"
+
+1516283247 c:\users\lz\desktop\designpatterns\oserverpattern\observer.h
+	<vector>
+	<iostream>
+
+1516283315 source:c:\users\lz\desktop\designpatterns\oserverpattern\observer.cpp
+	"Observer.h"
+
