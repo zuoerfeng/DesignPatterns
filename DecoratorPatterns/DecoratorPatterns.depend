@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516696559 source:c:\users\lz\desktop\designpatterns\decoratorpatterns\decorate.cpp
+	"Decorate.h"
+
+1516698802 c:\users\lz\desktop\designpatterns\decoratorpatterns\decorate.h
+	<string>
+	<iostream>
+
