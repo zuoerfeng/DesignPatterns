@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516880847 source:c:\users\lz\desktop\designpatterns\factorypattern\main.cpp
+	<iostream>
+	"FactoryPattern.h"
+
+1516880698 c:\users\lz\desktop\designpatterns\factorypattern\factorypattern.h
+	<iostream>
+
