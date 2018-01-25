@@ -34,27 +34,27 @@ public:
 };
 
 //建立一个抽象的工厂，具体的实例化由其子类来完成
-class virtualFactory
+class virtualMouseFactory
 {
 public:
      virtual Mouse* creatMouse(void) = 0;    //虚接口，创建鼠标实例由其子函数去完成
 };
 
 
-class HpMouseFactorym : public virtualFactory{
+class HpMouseFactorym : public virtualMouseFactory{
     Mouse* creatMouse(void){
         return (new HpMouse());
     }
 };
 
 
-class DellMouseFactorym : public virtualFactory{
+class DellMouseFactorym : public virtualMouseFactory{
     Mouse* creatMouse(void){
         return (new DellMouse());
     }
 };
 
-class HWMouseFactorym : public virtualFactory{
+class HWMouseFactorym : public virtualMouseFactory{
     Mouse* creatMouse(void){
         return (new HWMouse());
     }

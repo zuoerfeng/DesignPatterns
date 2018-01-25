@@ -1,5 +1,5 @@
 #include <iostream>
-#include "FactoryPattern.h"
+#include "VirtualFactoryPattern.H"
 
 using namespace std;
 
@@ -18,6 +18,20 @@ int main()
     a = new HWMouseFactorym();
     d = a->creatMouse();
     d->printMouse();
+
+    //抽象工厂，多生产一个产品键盘
+    virtualPcFactory *h = new DellFactorym();
+    Mouse *k = h->creatMouse();
+    Keyboard *p = h->creatKeyboard();
+    p->printKeyboard();
+    k->printMouse();
+
+    //增加一个厂商HUWEI工厂，用于生产HUWEI的鼠标、键盘
+    h = new HWFactorym();
+    k = h->creatMouse();
+    p = h->creatKeyboard();
+    p->printKeyboard();
+    k->printMouse();
 
     return 0;
 }
