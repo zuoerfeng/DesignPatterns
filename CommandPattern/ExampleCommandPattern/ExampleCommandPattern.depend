@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1517228255 source:c:\users\lz\desktop\designpatterns\commandpattern\examplecommandpattern\command.cpp
+	"command.h"
+
+1517228224 c:\users\lz\desktop\designpatterns\commandpattern\examplecommandpattern\command.h
+	<iostream>
+
+1517228280 source:c:\users\lz\desktop\designpatterns\commandpattern\examplecommandpattern\main.cpp
+	<iostream>
+	"SimpleRemoteControl.h"
+
+1517228311 c:\users\lz\desktop\designpatterns\commandpattern\examplecommandpattern\simpleremotecontrol.h
+	"command.h"
+
+1517227944 source:c:\users\lz\desktop\designpatterns\commandpattern\examplecommandpattern\simpleremotecontrol.cpp
+	"SimpleRemoteControl.h"
+

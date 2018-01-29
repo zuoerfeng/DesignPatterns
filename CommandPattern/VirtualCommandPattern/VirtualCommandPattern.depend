@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1517229868 source:c:\users\lz\desktop\designpatterns\commandpattern\virtualcommandpattern\command.cpp
+	<iostream>
+	"command.h"
+
+1517229952 c:\users\lz\desktop\designpatterns\commandpattern\virtualcommandpattern\command.h
+	"receiver.h"
+
+1517228590 c:\users\lz\desktop\designpatterns\commandpattern\virtualcommandpattern\receiver.h
+
+1517229553 source:c:\users\lz\desktop\designpatterns\commandpattern\virtualcommandpattern\invoker.cpp
+	"Invoker.h"
+
+1517229544 c:\users\lz\desktop\designpatterns\commandpattern\virtualcommandpattern\invoker.h
+	"command.h"
+
+1517229965 source:c:\users\lz\desktop\designpatterns\commandpattern\virtualcommandpattern\main.cpp
+	<iostream>
+	"Invoker.h"
+
+1517229982 source:c:\users\lz\desktop\designpatterns\commandpattern\virtualcommandpattern\receiver.cpp
+	"receiver.h"
+	<iostream>
+
