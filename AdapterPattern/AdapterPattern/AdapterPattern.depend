@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1517299655 source:c:\users\lz\desktop\designpatterns\adapterpattern\adapterpattern\adapter.cpp
+	"Adapter.h"
+	<iostream>
+
+1517299628 c:\users\lz\desktop\designpatterns\adapterpattern\adapterpattern\adapter.h
+
+1517299682 source:c:\users\lz\desktop\designpatterns\adapterpattern\adapterpattern\main.cpp
+	<iostream>
+	"Adapter.h"
+
