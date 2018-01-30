@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1517300589 source:c:\users\lz\desktop\designpatterns\facadepattern\facade.cpp
+	"Facade.h"
+
+1517300744 c:\users\lz\desktop\designpatterns\facadepattern\facade.h
+	<iostream>
+
+1517300534 source:c:\users\lz\desktop\designpatterns\facadepattern\main.cpp
+	<iostream>
+	"Facade.h"
+
