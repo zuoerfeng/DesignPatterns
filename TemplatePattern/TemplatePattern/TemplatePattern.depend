@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1517397498 source:c:\users\lz\desktop\designpatterns\templatepattern\template.cpp
+	"Template.h"
+	<iostream>
+
+1517397537 c:\users\lz\desktop\designpatterns\templatepattern\template.h
+
