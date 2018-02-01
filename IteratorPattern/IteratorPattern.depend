@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1517485751 source:c:\users\lz\desktop\designpatterns\iteratorpattern\iterator.cpp
+	"iterator.h"
+
+1517485844 c:\users\lz\desktop\designpatterns\iteratorpattern\iterator.h
+	<string>
+	<iostream>
+	<vector>
+
+1517485787 source:c:\users\lz\desktop\designpatterns\iteratorpattern\main.cpp
+	<iostream>
+	"iterator.h"
+
