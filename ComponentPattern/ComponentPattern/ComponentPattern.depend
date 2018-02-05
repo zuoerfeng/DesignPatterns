@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1517816764 source:c:\users\lz\desktop\designpatterns\componentpattern\composite.cpp
+	"Composite.h"
+	<iostream>
+
+1517815543 c:\users\lz\desktop\designpatterns\componentpattern\composite.h
+	<vector>
+
+1517817215 source:c:\users\lz\desktop\designpatterns\componentpattern\main.cpp
+	<iostream>
+	"Composite.h"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1517817461 source:c:\users\lz\desktop\designpatterns\componentpattern\examplecomponentpattern\main.cpp
+	<iostream>
+	"Company.h"
+
+1517817539 c:\users\lz\desktop\designpatterns\componentpattern\examplecomponentpattern\company.h
+	<iostream>
+	<vector>
+	<list>
+
