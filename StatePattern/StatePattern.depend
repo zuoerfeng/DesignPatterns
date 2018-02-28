@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1519821490 source:c:\users\lz\desktop\designpatterns\statepattern\main.cpp
+	<iostream>
+	"state.h"
+
+1519820361 c:\users\lz\desktop\designpatterns\statepattern\state.h
+	<iostream>
+
+1519821664 source:c:\users\lz\desktop\designpatterns\statepattern\state.cpp
+	"state.h"
+
