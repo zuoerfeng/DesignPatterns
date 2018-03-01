@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1519890659 source:c:\users\lz\desktop\designpatterns\proxypattern\main.cpp
+	<iostream>
+	"Proxy.h"
+
+1519890712 c:\users\lz\desktop\designpatterns\proxypattern\proxy.h
+
+1519890523 source:c:\users\lz\desktop\designpatterns\proxypattern\proxy.cpp
+	"Proxy.h"
+	<iostream>
+
